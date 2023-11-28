@@ -1,3 +1,12 @@
+# PathFinder
+Visualizes Dijkstra's Algorithm for selected start and end points with obstacles:
+
+* Use the "Set Start" button to select a starting point on the grid
+* Use the "Set End" button to select an end point on the grid
+* Use the "Set Walls" button to add walls as obstacles on the grid
+* Click "Find Path" to visualize the shortest path around the obstacles
+* Click "Reset" to reset the grid.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
