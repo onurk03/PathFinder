@@ -7,6 +7,8 @@ Visualizes Dijkstra's Algorithm for selected start and end points with obstacles
 * Click "Find Path" to visualize the shortest path around the obstacles
 * Click "Reset" to reset the grid.
 
+https://onurk03.github.io/PathFinder/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
